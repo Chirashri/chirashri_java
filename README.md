@@ -20,7 +20,7 @@ linkedlist program1c:pgrm1c4 class outputlink:(https://github.com/Chirashri/chir
 
 linkedlist program1c:pgrm1c5 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212536.png)
 
-linkedlist program2a:pgrm2a1 class outputlink:()
+String program2a:pgrm2a1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20213017.png)
 
 linkedlist program2b:pgrm2b1 class outputlink:()
 
