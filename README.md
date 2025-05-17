@@ -10,7 +10,7 @@ arraylist program1b:pgrm1b5 class outputlink:(https://github.com/Chirashri/chira
 
 arraylist program1b:pgrm1b6 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20211620.png)
 
-linkedlist program1c:pgrm1c1 class outputlink:()
+linkedlist program1c:pgrm1c1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212028.png)
 
 linkedlist program1c:pgrm1c2 class outputlink:()
 
