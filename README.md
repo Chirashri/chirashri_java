@@ -8,4 +8,20 @@ arraylist program1b:pgrm1b4 class outputlink:(https://github.com/Chirashri/chira
 
 arraylist program1b:pgrm1b5 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20130626.png)
 
-arraylist program1b:pgrm1b6 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20172112.png)
+arraylist program1b:pgrm1b6 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20211620.png)
+
+linkedlist program1c:pgrm1c1 class outputlink:()
+
+linkedlist program1c:pgrm1c2 class outputlink:()
+
+linkedlist program1c:pgrm1c3 class outputlink:()
+
+linkedlist program1c:pgrm1c4 class outputlink:()
+
+linkedlist program1c:pgrm1c5 class outputlink:()
+
+linkedlist program2a:pgrm2a1 class outputlink:()
+
+linkedlist program2b:pgrm2b1 class outputlink:()
+
+
