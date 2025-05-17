@@ -1,1 +1,1 @@
-[program1:pgram1a1 arraylist and linkedlist-outputlink]()
+[program1:pgram1a1 arraylist and linkedlist-outputlink](https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20082852.png)
