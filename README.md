@@ -26,7 +26,7 @@ String program2b:pgrm2b1 class outputlink:(https://github.com/Chirashri/chirashr
 
 String program3a:pgrm3a1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114405.png)
 
-String program3b:pgrm3b1 class outputlink:
+String program3b:pgrm3b1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114923.png)
 
 String program3b:pgrm3b2 class outputlink:
 
