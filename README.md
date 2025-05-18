@@ -50,6 +50,6 @@ Swing program4a:pgrm4a class outputlink:(https://github.com/Chirashri/chirashri_
 
 Swing program4b:pgrm4b class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20144235.png)
 
-Swing program4c:pgrm4c class outputlink:
+Swing program4c:pgrm4c class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20144506.png)
 
 
