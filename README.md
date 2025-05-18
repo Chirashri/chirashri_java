@@ -42,7 +42,7 @@ String program3c:pgrm3c7 class outputlink:(https://github.com/Chirashri/chirashr
 
 String program3c:pgrm3c8 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120910.png)
 
-String program3c:pgrm3c9 class outputlink:
+String program3c:pgrm3c9 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120910.png)
 
 String program3c:pgrm3c10 class outputlink:
 
