@@ -58,6 +58,6 @@ Swing program5b:pgrm5b class outputlink:(https://github.com/Chirashri/chirashri_
 
 Swing program5c:pgrm5c class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182714.png)
 
-Swing program5d:pgrm5d class outputlink:
+Swing program5d:pgrm5d class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182924.png)
 
 
