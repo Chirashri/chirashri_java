@@ -24,4 +24,26 @@ String program2a:pgrm2a1 class outputlink:(https://github.com/Chirashri/chirashr
 
 String program2b:pgrm2b1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20213203.png)
 
+String program3a:pgrm3a1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114405.png)
+
+String program3b:pgrm3b1 class outputlink:
+
+String program3b:pgrm3b2 class outputlink:
+
+String program3b:pgrm3b3 class outputlink:
+
+String program3b:pgrm3b4 class outputlink:
+
+String program3b:pgrm3b5 class outputlink:
+
+String program3c:pgrm3c1 class outputlink:
+
+String program3c:pgrm3c7 class outputlink:
+
+String program3c:pgrm3c8 class outputlink:
+
+String program3c:pgrm3c9 class outputlink:
+
+String program3c:pgrm3c10 class outputlink:
+
 
