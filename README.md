@@ -54,7 +54,7 @@ Swing program4c:pgrm4c class outputlink:(https://github.com/Chirashri/chirashri_
 
 Swing program5a:pgrm5a class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20181744.png)
 
-Swing program5b:pgrm5b class outputlink:
+Swing program5b:pgrm5b class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182220.png)
 
 Swing program5c:pgrm5c class outputlink:
 
