@@ -13,7 +13,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-public class pgrm1a1 {
+public class arraylist-linkedlist. {
 	public static void main(String[] args) {
 		 // Creating different types of Lists
 		        List <String> arrayList = new ArrayList<>();
