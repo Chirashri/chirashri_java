@@ -3,7 +3,7 @@ package github1;
 
 import java.util.ArrayList;
 
-public class pgrm1b1 {
+public class Arraylist_interface {
 	 public static void main(String[] args) {
 	        // Create an ArrayList to store color names
 	        ArrayList<String> colors = new ArrayList<>();
