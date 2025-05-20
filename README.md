@@ -20,7 +20,7 @@ linkedlist program:specified_position class outputlink:(https://github.com/Chira
 
 linkedlist program:swap class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212536.png)
 
-String program2a:pgrm2a1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20213017.png)
+String program:string_operation class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212536.png)
 
 String program2b:pgrm2b1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20213203.png)
 
