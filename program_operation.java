@@ -8,7 +8,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm2a1 {
+public class String_operation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
