@@ -10,7 +10,7 @@ arraylist program:sublist class outputlink:(https://github.com/Chirashri/chirash
 
 arraylist program:remove_element class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/arraylist/Screenshot%202025-05-17%20211620.png)
 
-linkedlist program1c:pgrm1c1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212028.png)
+linkedlist program:specified_position class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212028.png)
 
 linkedlist program1c:pgrm1c2 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212152.png)
 
