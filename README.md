@@ -30,21 +30,21 @@ String program:whitespace class outputlink:(https://github.com/Chirashri/chirash
 
 String program:counting_substring class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115119.png)
 
-String program:isPalindrome class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115217.png)
+String program:reverse class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115217.png)
 
-String program:removewhitespace class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115511.png)
+String program:isPalindrome class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115511.png)
 
-String program3b:pgrm3b5 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115655.png)
+String program3b:removeWhitespace class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115655.png)
 
-String program:removeWhitespace class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120545.png)
+String program:Capitalize_words class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120545.png)
 
 String program:truncate class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120749.png)
 
 String program:isNumeric class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120910.png)
 
-String program3c:pgrm3c9 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120910.png)
+String program3c:random_string class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120910.png)
 
-String program3c:pgrm3c10 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20121201.png)
+String program3c:count_words class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20121201.png)
 
 Swing program4a:pgrm4a class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20143847.png)
 
