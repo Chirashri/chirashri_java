@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm3b3 {
+public class reverse_string {
 
     // User-defined function to reverse a string
     public static String reverseString(String input) {
