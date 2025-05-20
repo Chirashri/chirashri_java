@@ -40,7 +40,7 @@ String program:removeWhitespace class outputlink:(https://github.com/Chirashri/c
 
 String program:truncate class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120749.png)
 
-String program3c:pgrm3c8 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120910.png)
+String program:isNumeric class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120910.png)
 
 String program3c:pgrm3c9 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120910.png)
 
