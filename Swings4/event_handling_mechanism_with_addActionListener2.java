@@ -14,10 +14,10 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-public class pgrm4c {
+public class event_handling_mechanism_with_addActionListener2 {
 	 JLabel messageLabel; 
 	 
-	    pgrm4c() { 
+	    event_handling_mechanism_with_addActionListener2() { 
 	        // Create the main window 
 	        JFrame frame = new JFrame("Clock & Hourglass Button Example"); 
 	 
@@ -63,7 +63,7 @@ public class pgrm4c {
 	    } 
 	 
 	    public static void main(String[] args) { 
-	        new pgrm4c(); 
+	        new event_handling_mechanism_with_addActionListener2(); 
 	    } 
 }
 
