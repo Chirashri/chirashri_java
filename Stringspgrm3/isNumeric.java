@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm3c8{
+public class isNumeric {
 
     // User-defined function to check if string contains only digits
     public static boolean isNumeric(String input) {
