@@ -5,7 +5,7 @@ package github1;
 import java.util.Random;
 import java.util.Scanner;
 
-public class pgrm3c9 {
+public class random_string {
 
     // User-defined function to generate random string
     public static String generateRandomString(int length) {
