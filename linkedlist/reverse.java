@@ -5,7 +5,7 @@ package github1;
 import java.util.LinkedList;
 import java.util.Iterator;
 
-public class pgrm1c2 {
+public class reverse {
     public static void main(String[] args) {
         // Create a LinkedList and add some elements
         LinkedList<String> fruits = new LinkedList<>();
