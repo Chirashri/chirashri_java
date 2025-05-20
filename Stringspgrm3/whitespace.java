@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm3b1 {
+public class whitespace {
 
     // User-defined function
     public static boolean isNullOrEmpty(String input) {
