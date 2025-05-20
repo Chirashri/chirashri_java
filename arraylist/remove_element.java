@@ -4,7 +4,7 @@ package github1;
 
 import java.util.ArrayList;
 
-public class pgrm1b2 {
+public class remove_element {
 	 public static void main(String[] args) {
 	        // Create an ArrayList to store color names
 	        ArrayList<String> colors = new ArrayList<>();
