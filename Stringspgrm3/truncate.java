@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm3c7 {
+public class truncate {
 
     // User-defined function to truncate string and add ellipsis if needed
     public static String truncate(String input, int maxLength) {
