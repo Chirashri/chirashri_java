@@ -3,7 +3,7 @@ element from the ArrayList object by using remove by index*/
 package github1;
 import java.util.ArrayList;
 import java.util.Scanner;
-public class pgrm1b6 {
+public class delete_nth_element {
 
 
 	
