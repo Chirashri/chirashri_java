@@ -8,9 +8,9 @@ import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
-public class pgrm4b{
+public class event_handling_mechanism_with_addActionListener{
 	JLabel l1;
-	pgrm4b(){
+	event_handling_mechanism_with_addActionListener(){
 			JFrame f=new JFrame("Button Example");
 				l1=new JLabel();
 				l1.setBounds(50,50, 700,100);
@@ -39,6 +39,6 @@ public class pgrm4b{
 				f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 public static void main(String[] args) {
-	new pgrm4b();
+	new event_handling_mechanism_with_addActionListener();
 	}
 }
