@@ -24,7 +24,7 @@ String program:string_operation class outputlink:(https://github.com/Chirashri/c
 
 String program2b:string_performance class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20213203.png)
 
-String program3a:pgrm3a1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114405.png)
+String program3:Basic_string_operation class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114405.png)
 
 String program3b:pgrm3b1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114923.png)
 
