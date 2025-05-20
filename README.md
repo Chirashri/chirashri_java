@@ -14,7 +14,7 @@ linkedlist program:specified_position class outputlink:(https://github.com/Chira
 
 linkedlist program:reverse class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212152.png)
 
-linkedlist program1c:insert_at_end class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212249.png)
+linkedlist program:insert_at_end class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212249.png)
 
 linkedlist program:specified_position class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212408.png)
 
@@ -22,11 +22,11 @@ linkedlist program:swap class outputlink:(https://github.com/Chirashri/chirashri
 
 String program:string_operation class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212536.png)
 
-String program2b:string_performance class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20213203.png)
+String program:string_performance class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20213203.png)
 
-String program3:Basic_string_operation class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114405.png)
+String program:Basic_string_operation class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114405.png)
 
-String program3b:pgrm3b1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114923.png)
+String program:whitespace class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114923.png)
 
 String program3b:pgrm3b2 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115119.png)
 
