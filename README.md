@@ -8,7 +8,7 @@ arraylist program:array_sort class outputlink:(https://github.com/Chirashri/chir
 
 arraylist program:sublist class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/arraylist/Screenshot%202025-05-17%20130626.png)
 
-arraylist program1b:pgrm1b6 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20211620.png)
+arraylist program:remove_element class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/arraylist/Screenshot%202025-05-17%20211620.png)
 
 linkedlist program1c:pgrm1c1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212028.png)
 
