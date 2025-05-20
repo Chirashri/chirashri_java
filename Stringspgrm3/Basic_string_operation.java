@@ -6,7 +6,7 @@ String Splitting, StringBuilder Demo, String Formatting , Validate Email with co
 startsWith() and endsWith()*/
 package github1;
 
-public class pgrm3a {
+public class Basic_string_operation {
 
     public static void main(String[] args) {
 
