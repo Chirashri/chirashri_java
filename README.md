@@ -12,7 +12,7 @@ arraylist program:remove_element class outputlink:(https://github.com/Chirashri/
 
 linkedlist program:specified_position class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212028.png)
 
-linkedlist program1c:pgrm1c2 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212152.png)
+linkedlist program:reverse class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212152.png)
 
 linkedlist program1c:pgrm1c3 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212249.png)
 
