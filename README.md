@@ -60,4 +60,6 @@ Swing program5c:pgrm5c class outputlink:(https://github.com/Chirashri/chirashri_
 
 Swing program5d:pgrm5d class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182924.png)
 
+servlet program:factorialprogram class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Servletjava/Screenshot%202025-05-20%20192028.png)
+
 
