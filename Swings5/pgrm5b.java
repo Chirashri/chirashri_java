@@ -1,13 +1,14 @@
-package github1;
+
 
 /*Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
 display the concerned color whenever the specific tab is selected in the Pan.
 ;*/
+package github1;
 import java.awt.Color;
 import javax.swing.*;
-public class pgrm5b {
+public class TabbedPan {
 	JFrame f;
-	pgrm5b(){
+	TabbedPan(){
 		f=new JFrame("colors panel");
 		JPanel p1=new JPanel();//to create panel of colors
 		JPanel p2=new JPanel();
@@ -27,6 +28,6 @@ public class pgrm5b {
 		f.setVisible(true);
 	}
 public static void main(String[] args) {
-	new pgrm5b();
+	new TabbedPan();
 	}
 }
