@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm3b2{
+public class counting_substring{
 
     // User-defined function to count occurrences of a substring
     public static int countOccurrences(String mainString, String subString) {
