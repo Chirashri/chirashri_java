@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class removeWhitespace {
+public class capitalize {
 
     // User-defined function to capitalize the first letter of each word
     public static String capitalizeWords(String input) {
