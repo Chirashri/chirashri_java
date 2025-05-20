@@ -36,7 +36,7 @@ String program:removewhitespace class outputlink:(https://github.com/Chirashri/c
 
 String program3b:pgrm3b5 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115655.png)
 
-String program3c:pgrm3c1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120545.png)
+String program:removeWhitespace class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120545.png)
 
 String program:truncate class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20120749.png)
 
