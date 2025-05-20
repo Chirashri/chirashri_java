@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm3b5 {
+public class removewhitespace {
 
     // User-defined function to remove all whitespace characters
     public static String removeWhitespace(String input) {
