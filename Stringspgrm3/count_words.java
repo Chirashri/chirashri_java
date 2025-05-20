@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm3c10 {
+public class count_words {
 
     // User-defined function to count words in a string
     public static int countWords(String input) {
