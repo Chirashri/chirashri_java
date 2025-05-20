@@ -3,7 +3,7 @@ appending the string ‘AIET’ for 10000 times both in the StringBuffer and Str
 your answer which one is better.*/
 package github1;
 
-public class pgrm2b1 {
+public class string_performance {
     public static void main(String[] args) {
         int iterations = 10000;
         String appendText = "AIET";
