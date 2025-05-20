@@ -28,7 +28,7 @@ String program:Basic_string_operation class outputlink:(https://github.com/Chira
 
 String program:whitespace class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20114923.png)
 
-String program3b:pgrm3b2 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115119.png)
+String program:counting_substring class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115119.png)
 
 String program3b:pgrm3b3 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20115217.png)
 
