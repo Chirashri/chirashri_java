@@ -46,11 +46,11 @@ String program3c:random_string class outputlink:(https://github.com/Chirashri/ch
 
 String program3c:count_words class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Stringspgrm3/Screenshot%202025-05-18%20121201.png)
 
-Swing program4a:pgrm4a class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20143847.png)
+Swing program4:Displaymessage class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20143847.png)
 
-Swing program4b:pgrm4b class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20144235.png)
+Swing program4:event_handling_mechanism_with_addActionListener class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20144235.png)
 
-Swing program4c:pgrm4c class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20144506.png)
+Swing program4:event_handling_mechanism_with_addActionListener2 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings4/Screenshot%202025-05-18%20144506.png)
 
 Swing program5a:pgrm5a class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20181744.png)
 
