@@ -3,7 +3,7 @@ using Collections.sort( ArrayListObj)*/
 package github1;
 import java.util.ArrayList;
 import java.util.Collections;
-public class pgrm1b4 {
+public class array_sort {
 	public static void main(String[] args) {
         // Create an ArrayList to store color names
         ArrayList<String> colors = new ArrayList<>();
