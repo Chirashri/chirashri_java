@@ -4,7 +4,7 @@ package github1;
 
 import java.util.LinkedList;
 
-public class pgrm1c3{
+public class insert_at_add{
     public static void main(String[] args) {
         // Create a LinkedList and add some initial elements
         LinkedList<String> colors = new LinkedList<>();
