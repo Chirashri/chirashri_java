@@ -5,7 +5,7 @@ package github1;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class pgrm1c1 {
+public class specified_position{
     public static void main(String[] args) {
         // Create a LinkedList and add some elements
         LinkedList<String> items = new LinkedList<>();
