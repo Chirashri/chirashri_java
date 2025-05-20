@@ -14,7 +14,7 @@ linkedlist program:specified_position class outputlink:(https://github.com/Chira
 
 linkedlist program:reverse class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212152.png)
 
-linkedlist program1c:pgrm1c3 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212249.png)
+linkedlist program1c:insert_at_end class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212249.png)
 
 linkedlist program1c:pgrm1c4 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212408.png)
 
