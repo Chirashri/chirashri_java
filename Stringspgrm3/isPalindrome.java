@@ -4,7 +4,7 @@ package github1;
 
 import java.util.Scanner;
 
-public class pgrm3b4 {
+public class isPalindrome {
 
     // User-defined function to check if a string is a palindrome
     public static boolean isPalindrome(String input) {
