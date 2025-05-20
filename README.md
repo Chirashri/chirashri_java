@@ -18,7 +18,7 @@ linkedlist program1c:insert_at_end class outputlink:(https://github.com/Chirashr
 
 linkedlist program:specified_position class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212408.png)
 
-linkedlist program1c:pgrm1c5 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20212536.png)
+linkedlist program:swap class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/linkedlist/Screenshot%202025-05-17%20212536.png)
 
 String program2a:pgrm2a1 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20213017.png)
 
