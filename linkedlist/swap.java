@@ -5,7 +5,7 @@ package github1;
 import java.util.LinkedList;
 import java.util.Collections;
 
-public class pgrm1c5 {
+public class swap {
     public static void main(String[] args) {
         // Create and populate the LinkedList
         LinkedList<String> colors = new LinkedList<>();
