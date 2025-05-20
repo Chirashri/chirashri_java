@@ -4,7 +4,7 @@ package github1;
 
 import java.util.LinkedList;
 
-public class pgrm1c4 {
+public class display {
     public static void main(String[] args) {
         // Create and populate the LinkedList
         LinkedList<String> animals = new LinkedList<>();
