@@ -56,9 +56,9 @@ Swing program5a:Countrylist class outputlink:(https://github.com/Chirashri/chira
 
 Swing program5b:TabbedPan class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182220.png)
 
-Swing program5c:pgrm5c class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182714.png)
+Swing program5c:Countries class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182714.png)
 
-Swing program5d:pgrm5d class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182924.png)
+Swing program5d:TabbedPan2 class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Swings5/Screenshot%202025-05-18%20182924.png)
 
 servlet program6a:FactorialServlet program class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Servletjava/Screenshot%202025-05-20%20192028.png)
 
