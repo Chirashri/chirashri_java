@@ -1,4 +1,4 @@
-arraylist-linkedlist pgrm-outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20082852.png)
+arraylist-linkedlist pgrm-outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/arraylist/Screenshot%202025-05-17%20082852.png)
 
 arraylist pgrm :Arraylist_interface class outputlink:(https://github.com/Chirashri/chirashri_java/blob/main/Screenshot%202025-05-17%20115941.png)
 
